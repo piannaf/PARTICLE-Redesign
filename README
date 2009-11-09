@@ -1,0 +1,19 @@
+PARTICLE redesign
+
+---------------------
+
+I was tasked by Professor McFarland at the Unversity of Rochester to redesign
+the PARTICLE (Physicists And Rochester Teachers Inventing CLassroom Experiments)
+Summer Program website.
+
+This is a mirror of the site as of November 2009 containing only the parts that
+I had redesigned. The original files, from 2004, have been lost but from looking
+at the source, all HTML, CSS, JavaScript and directory structure seem to be the
+same as when I wrote it up.
+
+I assume that since I was under the employ of The University of Rochester, the
+copyright belongs to them. If it is discovered that I do not have permission to
+have this on GitHub, I will take it down.
+
+The current address for the PARTICLE website is at:
+http://www.pas.rochester.edu/~pavone/particle-www/index.html

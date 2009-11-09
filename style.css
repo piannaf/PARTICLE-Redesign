@@ -1,0 +1,86 @@
+body
+  {
+	background-color:#8EB2EE;
+	margin:10px;
+	padding:0px;
+  }
+
+
+h2 {
+	font:bold 12px/14px verdana, arial, helvetica, sans-serif;
+	margin:0px 0px 5px 0px;
+	padding:5px;
+	border: 1px solid #000;
+	background-color: #ddf;
+}
+
+tt { color:#F00; }
+
+hr {
+	border: 0;
+	color: #05c;
+	background-color: #05c;
+	height: 1px;
+	width: 90%;
+	text-align: center;
+}
+
+/*image properties*/
+  img {border:0}
+
+/*table properties*/
+  table {
+	border: 0;
+	background-color: transparent;
+  }
+
+  table#bordered {
+    border: solid #000 1px;
+  }
+
+  table#bordered td {
+    border: solid #000 1px;
+  }
+  
+  table#bordered th {
+    border: solid #000 1px;
+	text-align: center;
+	font-style: bold;
+  }
+
+/*links properties*/	
+  a {
+	color:#09c;
+	font-size:.9em;
+	font-weight:600;
+	text-decoration:none;
+  }
+
+  a#heading {
+	font-size : 30px;
+	font-weight:900;
+	line-height:30px;
+	color:#0a4;
+  }
+
+  a#here { color: #000;}
+
+  a img {border: none }
+
+  a:link {color:#09c;}
+  a:visited {color:#07a;}
+  a:hover {color:#00f;}
+  
+  /*list properties*/
+  ol { list-style-type: upper-roman; }
+  ol ol {
+    padding-left:2em;
+    list-style-type: upper-alpha;
+  }
+  ol ol ol { list-style-type: decimal; }
+  ol ol ol ol { list-style-type: lower-alpha; }
+  ol ol ol ol ol { list-style-type: lower-roman; }
+  
+  ul { list-style-type: disc; }
+  ul ul { list-style-type: circle; }
+  ul ul ul { list-style-type: square; }
